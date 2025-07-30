@@ -1,15 +1,5 @@
-# Node and package manager stuff
-node_modules/
-package-lock.json
-npm-debug.log
-
-# Local environment/dev/test files
+# Ignore dev files
 src/test.js
-
-# OS-specific junk
-.DS_Store
-Thumbs.db
-
-# VS Code / IDE configs (optional)
-.vscode/
-.idea/
+node_modules/
+.gitignore
+package-lock.json
