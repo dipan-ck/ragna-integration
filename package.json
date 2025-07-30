@@ -1,13 +1,21 @@
 {
   "name": "ragna-integration",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "JavaScript client and React hook for Ragna chat",
   "main": "src/index.js",
   "type": "module",
   "scripts": {
     "dev": "node src/test.js"
   },
-  "keywords": ["ragna", "chat", "client", "react", "hook", "sdk", "integration"],
+  "keywords": [
+    "ragna",
+    "chat",
+    "client",
+    "react",
+    "hook",
+    "sdk",
+    "integration"
+  ],
   "author": "Dipan Chakraborty",
   "license": "MIT",
   "repository": {
