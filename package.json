@@ -7,9 +7,17 @@
   "scripts": {
     "dev": "node src/test.js"
   },
-  "keywords": ["ragna", "chat", "client", "react", "hook"],
+  "keywords": ["ragna", "chat", "client", "react", "hook", "sdk", "integration"],
   "author": "Dipan Chakraborty",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dipan-ck/ragna-integration"
+  },
+  "bugs": {
+    "url": "https://github.com/dipan-ck/ragna-integration/issues"
+  },
+  "homepage": "https://github.com/dipan-ck/ragna-integration#readme",
   "peerDependencies": {
     "react": "^18.0.0 || ^19.0.0"
   }
