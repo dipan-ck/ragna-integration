@@ -1,6 +1,6 @@
 {
   "name": "ragna-integration",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "JavaScript client and React hook for Ragna chat",
   "main": "src/index.js",
   "type": "module",
