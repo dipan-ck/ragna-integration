@@ -5,7 +5,7 @@ import { RagnaClient, useRagnaChat} from "./index"
 import ReactMarkdown from 'react-markdown';
 
 
-const DefaultLogo = () => (
+const defaultLogo = () => (
     <svg xmlns="http://www.w3.org/2000/svg" width="14278" height="14278" viewBox="0 0 14278 14278" fill="none">
       <path d="M13456 11536.1H9396.7L5522.26 7140.62H9396.7L13456 11536.1Z" fill="white"/>
       <path d="M1554.92 8781.02V11553H5521.31V7142.17H3438.02C1926.56 7142.17 1554.92 8002.66 1554.92 8781.02Z" fill="white"/>
