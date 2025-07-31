@@ -3,7 +3,7 @@
 
 import {useRagnaChat} from "./index"
 import ReactMarkdown from 'react-markdown';
-
+import { useState, useRef } from "react";
 
 const defaultLogo =  "";
   
