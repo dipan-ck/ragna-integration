@@ -41,7 +41,7 @@ const markdownComponents = {
     hr: () => <hr className="border-neutral-600 my-4" />,
   };
 
-export  function Chatbot({ logoUrl, size = 60, name="Ragna", client }) {
+export  function RagnaChatEmbed({ logoUrl, size = 60, name="Ragna", client }) {
   const [isOpen, setIsOpen] = useState(false);
   const { messages, sendMessage, isLoading } = useRagnaChat(client);
   const inputRef = useRef(null);
